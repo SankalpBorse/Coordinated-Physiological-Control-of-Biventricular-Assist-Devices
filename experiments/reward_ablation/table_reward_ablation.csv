@@ -1,6 +1,0 @@
-Scenario,FBE Without R_balance (mL/s),MAP (mmHg),CO (L/min),Suction (%),Congestion (%)
-Rest,0.54,117.7,6.41,0.0%,0.0%
-Exercise,3.14,108.3,6.83,0.0%,0.0%
-SVR_down,18.92,95.6,7.19,0.0%,0.0%
-Hypovolemia,0.63,117.6,6.39,0.0%,0.0%
-Suction_Test,0.77,115.6,6.33,0.0%,12.1%
